@@ -17,7 +17,7 @@ I love solving problems, exploring how intelligent systems work, and turning ide
 
 ---
 
-### 🛠️ Languages & Tools  
+###  Languages & Tools  
 `Python` • `C++` • `HTML`  
 
 ---
