@@ -1,18 +1,18 @@
 
 
-### I'm **Fairouz Omar** — an AI Student & Future Innovator 🚀  
+### I'm **Fairouz Omar** — an AI Student & Future Innovator   
 
-I’m an Artificial Intelligence student at **Jordan University of Science and Technology** 🎓  
+I’m an Artificial Intelligence student at **Jordan University of Science and Technology**   
 with a passion for **Machine Learning**, **Deep Learning**, and **Computer Vision**.  
 I love solving problems, exploring how intelligent systems work, and turning ideas into meaningful AI projects.  
 
 ---
 
-### 🧠 About Me  
-- 🎓 Currently studying **Artificial Intelligence**  
-- 💻 Skilled in **Python**, **C++**, and **HTML**  
-- 🌱 Exploring the world of **Machine Learning** and **Neural Networks**  
-- ⚡ Interested in building creative and useful **AI-powered applications**  
+###  About Me  
+-  Currently studying **Artificial Intelligence**  
+-  Skilled in **Python**, **C++**, and **HTML**  
+-  Exploring the world of **Machine Learning** and **Neural Networks**  
+-  Interested in building creative and useful **AI-powered applications**  
   
 
 ---
@@ -26,7 +26,7 @@ I love solving problems, exploring how intelligent systems work, and turning ide
 
 ---
 
-### 🎯 Current Goals  
+###  Current Goals  
 - Deepen understanding of **Deep Learning** and **Computer Vision**  
 - Build and deploy **AI-based web applications**  
 - Contribute to **open-source** projects related to AI  
